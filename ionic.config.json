@@ -1,0 +1,7 @@
+{
+  "name": "AVA01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
